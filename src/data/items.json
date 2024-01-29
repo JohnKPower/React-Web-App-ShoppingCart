@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "name": "earphones",
+        "price": 26.99,
+        "imgUrl": "public1/imgs/earphones.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Computer",
+        "price": 1199.99,
+        "imgUrl":"public1/imgs/computer.jpg"
+    },
+    {
+        "id": 3,
+        "name":"Smartphone",
+        "price": 120.99,
+        "imgUrl":"public1/imgs/Smartphone.jpg"
+    },
+    {
+        "id": 4,
+        "name":"Smartphone Charger",
+        "price": 35.50,
+        "imgUrl":"public1/imgs/SmartphoneCharger.jpg"
+    }
+
+]
